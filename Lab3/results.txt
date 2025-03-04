@@ -1,0 +1,422 @@
+{
+  "SmolLM-135M": {
+    "0": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.0,
+        "dependency recall": 0.0,
+        "dependency f1": 0.0,
+        "subtree precision": 0.0,
+        "subtree recall": 0.0,
+        "subtree f1": 0.0,
+        "edit distance": 0.9995833333333334,
+        "N": {
+          "exact match": 16,
+          "dependency precision": 16,
+          "dependency recall": 16,
+          "dependency f1": 16,
+          "subtree precision": 16,
+          "subtree recall": 16,
+          "subtree f1": 16,
+          "edit distance": 16
+        }
+      },
+      "flops": 405843.6000000003
+    },
+    "1": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.13723776223776224,
+        "dependency recall": 0.0074820172159292975,
+        "dependency f1": 0.013644891607698634,
+        "subtree precision": 0.09040178571428571,
+        "subtree recall": 0.004681839022381915,
+        "subtree f1": 0.008424251457339693,
+        "edit distance": 0.8852872217457616,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 388671.3000000004
+    },
+    "2": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.3099939249830407,
+        "dependency recall": 0.09121919271271466,
+        "dependency f1": 0.12621234493711586,
+        "subtree precision": 0.11239555481283423,
+        "subtree recall": 0.019585957790621153,
+        "subtree f1": 0.02826684911666471,
+        "edit distance": 0.7462154282966669,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 422107.9999999999
+    },
+    "4": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.29804090382035553,
+        "dependency recall": 0.09170102656737568,
+        "dependency f1": 0.12669768076050672,
+        "subtree precision": 0.07166756854256855,
+        "subtree recall": 0.012032275055041505,
+        "subtree f1": 0.018600710814484837,
+        "edit distance": 0.7365347432680982,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 560275.4999999999
+    },
+    "8": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.09127624933545986,
+        "dependency recall": 0.035956543808052285,
+        "dependency f1": 0.04690304843596892,
+        "subtree precision": 0.021604437229437227,
+        "subtree recall": 0.008212279817883266,
+        "subtree f1": 0.011168451431609326,
+        "edit distance": 0.8945817686020537,
+        "N": {
+          "exact match": 48,
+          "dependency precision": 48,
+          "dependency recall": 48,
+          "dependency f1": 48,
+          "subtree precision": 48,
+          "subtree recall": 48,
+          "subtree f1": 48,
+          "edit distance": 48
+        }
+      },
+      "flops": 486784.8999999999
+    },
+    "16": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.0,
+        "dependency recall": 0.0,
+        "dependency f1": 0.0,
+        "subtree precision": 0.0,
+        "subtree recall": 0.0,
+        "subtree f1": 0.0,
+        "edit distance": 1.0221633249931759,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 361811.90000000026
+    }
+  },
+  "distilgpt2": {
+    "0": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.0,
+        "dependency recall": 0.0,
+        "dependency f1": 0.0,
+        "subtree precision": 0.0,
+        "subtree recall": 0.0,
+        "subtree f1": 0.0,
+        "edit distance": 1.0788695835838558,
+        "N": {
+          "exact match": 16,
+          "dependency precision": 16,
+          "dependency recall": 16,
+          "dependency f1": 16,
+          "subtree precision": 16,
+          "subtree recall": 16,
+          "subtree f1": 16,
+          "edit distance": 16
+        }
+      },
+      "flops": 507664.2344822264
+    },
+    "1": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.13755372227178814,
+        "dependency recall": 0.007806380811011697,
+        "dependency f1": 0.014774297971074834,
+        "subtree precision": 0.09238182716643135,
+        "subtree recall": 0.005157075178664043,
+        "subtree f1": 0.00976882077581819,
+        "edit distance": 0.9634774921413477,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 485805.6658576676
+    },
+    "2": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.36554982526465185,
+        "dependency recall": 0.09544390710429762,
+        "dependency f1": 0.15136649856501028,
+        "subtree precision": 0.13785199765428807,
+        "subtree recall": 0.021788453220644023,
+        "subtree f1": 0.037629332488116014,
+        "edit distance": 0.9367446813766805,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 519838.9160504048
+    },
+    "4": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.36768472869742125,
+        "dependency recall": 0.10229369893312881,
+        "dependency f1": 0.16005769085746124,
+        "subtree precision": 0.08147227189070622,
+        "subtree recall": 0.014393057862652594,
+        "subtree f1": 0.02446421717927933,
+        "edit distance": 0.9223511854384882,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 713002.1927781971
+    },
+    "8": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.11575111893296479,
+        "dependency recall": 0.0417759674412167,
+        "dependency f1": 0.06139407624593113,
+        "subtree precision": 0.02724757131646384,
+        "subtree recall": 0.009543797623012034,
+        "subtree f1": 0.014136212587833272,
+        "edit distance": 0.990021239523503,
+        "N": {
+          "exact match": 48,
+          "dependency precision": 48,
+          "dependency recall": 48,
+          "dependency f1": 48,
+          "subtree precision": 48,
+          "subtree recall": 48,
+          "subtree f1": 48,
+          "edit distance": 48
+        }
+      },
+      "flops": 596395.3636989865
+    },
+    "16": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.0,
+        "dependency recall": 0.0,
+        "dependency f1": 0.0,
+        "subtree precision": 0.0,
+        "subtree recall": 0.0,
+        "subtree f1": 0.0,
+        "edit distance": 1.3186257143173048,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 458725.21450408676
+    }
+  },
+  "gpt-neo-125M": {
+    "0": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.0,
+        "dependency recall": 0.0,
+        "dependency f1": 0.0,
+        "subtree precision": 0.0,
+        "subtree recall": 0.0,
+        "subtree f1": 0.0,
+        "edit distance": 0.6324748891221043,
+        "N": {
+          "exact match": 16,
+          "dependency precision": 16,
+          "dependency recall": 16,
+          "dependency f1": 16,
+          "subtree precision": 16,
+          "subtree recall": 16,
+          "subtree f1": 16,
+          "edit distance": 16
+        }
+      },
+      "flops": 596562.0225832557
+    },
+    "1": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.10482112020963005,
+        "dependency recall": 0.007449375292069487,
+        "dependency f1": 0.01391018823756493,
+        "subtree precision": 0.08900558849121201,
+        "subtree recall": 0.0028192570937841713,
+        "subtree f1": 0.0054653974126864235,
+        "edit distance": 0.5207091413648204,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 548089.8871981669
+    },
+    "2": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.1604447516909452,
+        "dependency recall": 0.03179433911242349,
+        "dependency f1": 0.05307177455690612,
+        "subtree precision": 0.07186976901711604,
+        "subtree recall": 0.011620481373284546,
+        "subtree f1": 0.02000619972417004,
+        "edit distance": 0.40257701404624185,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 635675.3445154462
+    },
+    "4": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.2744030956309564,
+        "dependency recall": 0.0883911910528033,
+        "dependency f1": 0.1337111268929047,
+        "subtree precision": 0.06920889264941366,
+        "subtree recall": 0.006488742346212764,
+        "subtree f1": 0.01186506480670605,
+        "edit distance": 0.48484991249128934,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 751988.0103052594
+    },
+    "8": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.051307084758693104,
+        "dependency recall": 0.016618316386709887,
+        "dependency f1": 0.0251051109900558,
+        "subtree precision": 0.017969772279968974,
+        "subtree recall": 0.006708753914386896,
+        "subtree f1": 0.009770014560387695,
+        "edit distance": 0.34397123935739676,
+        "N": {
+          "exact match": 48,
+          "dependency precision": 48,
+          "dependency recall": 48,
+          "dependency f1": 48,
+          "subtree precision": 48,
+          "subtree recall": 48,
+          "subtree f1": 48,
+          "edit distance": 48
+        }
+      },
+      "flops": 686874.6544859086
+    },
+    "16": {
+      "metrics": {
+        "exact match": 0.0,
+        "dependency precision": 0.0,
+        "dependency recall": 0.0,
+        "dependency f1": 0.0,
+        "subtree precision": 0.0,
+        "subtree recall": 0.0,
+        "subtree f1": 0.0,
+        "edit distance": 0.4954920224366822,
+        "N": {
+          "exact match": 32,
+          "dependency precision": 32,
+          "dependency recall": 32,
+          "dependency f1": 32,
+          "subtree precision": 32,
+          "subtree recall": 32,
+          "subtree f1": 32,
+          "edit distance": 32
+        }
+      },
+      "flops": 582836.3093051318
+    }
+  }
+}
